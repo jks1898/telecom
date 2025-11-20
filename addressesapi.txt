@@ -1,10 +1,10 @@
-mfa.gov.ua#HK
-SaaS.sin.fan#TW
-store.ubi.com#SG
-cf.090227.xyz#JP
+mfa.gov.ua#UA
+store.ubi.com#US
+cf.090227.xyz#SG
+cdn.2020111.xyz#SG
 www.shopify.com#US
-cf.tencentapp.cn#KR
-cdns.doon.eu.org#CF
+cf.tencentapp.cn#HK
+cdns.doon.eu.org#SG
 cf.zhetengsha.eu.org#HK
 cloudflare-dl.byoip.top#SG
-staticdelivery.nexusmods.com#JP
+staticdelivery.nexusmods.com#US
